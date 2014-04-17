@@ -37,18 +37,18 @@ The SPNM uses three types of samples:
 
 The samples are stored, in the root, on a SD card with the following naming convention:
 ```
-track_XYY.mp3
+trackXYY.mp3
 ```
 Where:
  - `X` = the sample type. 1 = background, 2 = random, 3 = trigged
  - `YY` = the sample number, starting at 01. Don't leave gaps in the numbering otherwise not all files are found at startup.
 
 For the triggered samples inputs:
- - `A0` triggers `track_301.mp3`
- - `A1` triggers `track_302.mp3`
- - `A2` triggers `track_303.mp3`
- - `A3` triggers `track_304.mp3`
- - `A4` triggers `track_305.mp3`
+ - `A0` triggers `track301.mp3`
+ - `A1` triggers `track302.mp3`
+ - `A2` triggers `track303.mp3`
+ - `A3` triggers `track304.mp3`
+ - `A4` triggers `track305.mp3`
 
 Relay control
 ----
