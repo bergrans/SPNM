@@ -10,16 +10,19 @@ The SPNM contains the following parts:
  - 4 channel relay board https://iprototype.nl/products/components/buttons-switches/relay-board-4-channels-5v
  - Power Supply 12/3A
 
-
 I/O
 ----
  - A0...A4 inputs for triggered samples
  - A5 Potentiometer input used for volume setting
  - 10, 3, 4, 5 relay channel 1...4
 
-Remarks
+####Remarks
+Pin 10 seems to be used by the SPI library during startup. Causing the relay on this channel to switch shortly. Since the pin is not used by the MP3 shield there is no problem in using it for general IO.
+
+Used software libraries
 ----
-Pin 10 seems to be used by the SPI library during startup. Causing the relay (channel 1) to switch shortly. Since the pin is not used by the MP3 shield there is no problem in using it for general IO.
+ - [SFEMP3Shield](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library) 
+ - [TimerOne](https://code.google.com/p/arduino-timerone/downloads/list)
 
 MP3 samples
 ----
