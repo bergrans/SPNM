@@ -1,7 +1,7 @@
 Steam Pop Noise Machine
 ====
 
-The Steam Pop Noise Machine (SPNM) is part of the [Steam Pop Machine](http://www.steampopmachine.com/) project. The Steam Pop Machine is a large mobile popcorn  machine build in [Steampunk style](http://nl.wikipedia.org/wiki/Steampunk). This machine is used for selling popcorn on huge festivals/events in an atractive/interactive way. To make the machine more realistic some background-, random- and trigged noises are used to spice things up. That's what the SPNM if for.
+The Steam Pop Noise Machine (SPNM) is part of the [Steam Pop Machine](http://www.steampopmachine.com/) project. The Steam Pop Machine is a large mobile popcorn  machine build in [Steampunk style](http://nl.wikipedia.org/wiki/Steampunk). This machine is used for selling popcorn on huge festivals/events in an atractive/interactive way. To make the machine more realistic some background-, random- and trigged noises are used to spice things up. That's what the SPNM is for.
 
 A 4 channel relay board is added to control some more powerfull stuff like lights or motors. 
 
