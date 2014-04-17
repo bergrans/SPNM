@@ -5,7 +5,7 @@ The Steam Pop Noise Machine (SPNM) is part of the [Steam Pop Machine](http://www
 
 A 4 channel relay board is added to control some more powerfull stuff like lights or motors. 
 
-![Internal view](https://github.com/bergrans/SPNM/blob/master/images/spnm-intern.jpg "Internel view")
+![picture alt](https://raw.githubusercontent.com/bergrans/SPNM/master/images/spnm-intern.jpg "Internal view")
 
 The hardware:
 ----
